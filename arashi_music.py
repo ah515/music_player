@@ -63,7 +63,7 @@ class App:
 
         pyxel.text(40, 35, "WELCOME TO Pyxel!", 7)
 
-        pyxel.text(10, 43, "ThIS IS MUSIC PLAYER OF ARASHI", 7)
+        pyxel.text(10, 43, "THIS IS MUSIC PLAYER OF ARASHI", 7)
         pyxel.text(10, 51, "PUSH 1-5 kEY TO START MUSIC!", pyxel.frame_count % 16)
 
         pyxel.text(18, 62, "1. A RA SHI", 10)
